@@ -1,14 +1,14 @@
 {
-    "version": "109.0.5383.2",
-    "size": 235237162,
-    "sha1": "11308cedbd2674ea21586fbdc98cacf6e9b45fbd",
-    "sha256": "553cb629856a4697da85e1d35e0f5d498a1cc450bb9a20f233db424ffc77857b",
+    "version": "109.0.5385.0",
+    "size": 235329720,
+    "sha1": "66316866a4768363b90fcbdbf6dc8e975702c742",
+    "sha256": "5dfac1dd6f5e654ebc71610d9d23fe6d5c81a49cd3b2ce96d84f8046e95601ea",
     "urls": [
-        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/plahzjl7b7co364ly73lvdbnle_109.0.5383.2/GoogleChromeCanary-109.0.5383.2.dmg",
-        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/plahzjl7b7co364ly73lvdbnle_109.0.5383.2/GoogleChromeCanary-109.0.5383.2.dmg",
-        "http://dl.google.com/release2/chrome/plahzjl7b7co364ly73lvdbnle_109.0.5383.2/GoogleChromeCanary-109.0.5383.2.dmg",
-        "https://dl.google.com/release2/chrome/plahzjl7b7co364ly73lvdbnle_109.0.5383.2/GoogleChromeCanary-109.0.5383.2.dmg",
-        "http://www.google.com/dl/release2/chrome/plahzjl7b7co364ly73lvdbnle_109.0.5383.2/GoogleChromeCanary-109.0.5383.2.dmg",
-        "https://www.google.com/dl/release2/chrome/plahzjl7b7co364ly73lvdbnle_109.0.5383.2/GoogleChromeCanary-109.0.5383.2.dmg"
+        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/e7aepiavdienobrqq6xih53s24_109.0.5385.0/GoogleChromeCanary-109.0.5385.0.dmg",
+        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/e7aepiavdienobrqq6xih53s24_109.0.5385.0/GoogleChromeCanary-109.0.5385.0.dmg",
+        "http://dl.google.com/release2/chrome/e7aepiavdienobrqq6xih53s24_109.0.5385.0/GoogleChromeCanary-109.0.5385.0.dmg",
+        "https://dl.google.com/release2/chrome/e7aepiavdienobrqq6xih53s24_109.0.5385.0/GoogleChromeCanary-109.0.5385.0.dmg",
+        "http://www.google.com/dl/release2/chrome/e7aepiavdienobrqq6xih53s24_109.0.5385.0/GoogleChromeCanary-109.0.5385.0.dmg",
+        "https://www.google.com/dl/release2/chrome/e7aepiavdienobrqq6xih53s24_109.0.5385.0/GoogleChromeCanary-109.0.5385.0.dmg"
     ]
 }
