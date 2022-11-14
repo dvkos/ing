@@ -154,17 +154,17 @@
         ]
     },
     "mac_canary": {
-        "version": "110.0.5417.0",
-        "size": 218229822,
-        "sha1": "2dcedeb1cfd1f4113ffc317a32eaf97249db6f7a",
-        "sha256": "a2b73cebe3d89e20fa0eed3a1d338f4b0bee4b6e5f54bf97e4691ddf81b7cdbf",
+        "version": "110.0.5419.0",
+        "size": 218054907,
+        "sha1": "4a8857436106b1529f8a9b8df633432b1886a907",
+        "sha256": "4e33ceb847600f36dd141e54efdf61285431616b71b1d9f5d6387b15dfd51a73",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/admwkiz6ibwgq326zjlgtxh3ae6a_110.0.5417.0/GoogleChromeCanary-110.0.5417.0.dmg",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/admwkiz6ibwgq326zjlgtxh3ae6a_110.0.5417.0/GoogleChromeCanary-110.0.5417.0.dmg",
-            "http://dl.google.com/release2/chrome/admwkiz6ibwgq326zjlgtxh3ae6a_110.0.5417.0/GoogleChromeCanary-110.0.5417.0.dmg",
-            "https://dl.google.com/release2/chrome/admwkiz6ibwgq326zjlgtxh3ae6a_110.0.5417.0/GoogleChromeCanary-110.0.5417.0.dmg",
-            "http://www.google.com/dl/release2/chrome/admwkiz6ibwgq326zjlgtxh3ae6a_110.0.5417.0/GoogleChromeCanary-110.0.5417.0.dmg",
-            "https://www.google.com/dl/release2/chrome/admwkiz6ibwgq326zjlgtxh3ae6a_110.0.5417.0/GoogleChromeCanary-110.0.5417.0.dmg"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ac2rsfzsd75foeugls5dt3p7ymfa_110.0.5419.0/GoogleChromeCanary-110.0.5419.0.dmg",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ac2rsfzsd75foeugls5dt3p7ymfa_110.0.5419.0/GoogleChromeCanary-110.0.5419.0.dmg",
+            "http://dl.google.com/release2/chrome/ac2rsfzsd75foeugls5dt3p7ymfa_110.0.5419.0/GoogleChromeCanary-110.0.5419.0.dmg",
+            "https://dl.google.com/release2/chrome/ac2rsfzsd75foeugls5dt3p7ymfa_110.0.5419.0/GoogleChromeCanary-110.0.5419.0.dmg",
+            "http://www.google.com/dl/release2/chrome/ac2rsfzsd75foeugls5dt3p7ymfa_110.0.5419.0/GoogleChromeCanary-110.0.5419.0.dmg",
+            "https://www.google.com/dl/release2/chrome/ac2rsfzsd75foeugls5dt3p7ymfa_110.0.5419.0/GoogleChromeCanary-110.0.5419.0.dmg"
         ]
     }
 }
